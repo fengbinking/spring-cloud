@@ -1,0 +1,19 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.cloud.config.MyAutoConfiguretion",
+      "name": "myautoconfig",
+      "type": "com.cloud.config.MyAutoConfiguretion"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.cloud.config.MyAutoConfiguretion",
+      "defaultValue": "",
+      "name": "myautoconfig.msg",
+      "description": "自动配置测试属性值.",
+      "type": "java.lang.String"
+    }
+  ]
+}
